@@ -3,18 +3,12 @@ Shree Krishna Mala is a spiritual Android application designed to help users per
 
 ✨ Features
 🕉️ Digital Mala Counting: Perform mala by tapping the Om button, with each tap playing a clear and calming Om sound.
-
 📖 Read the Bhagavad Gita: Access and read the complete Bhagavad Gita within the app, chapter by chapter.
-
 🔊 Fluent Sound Playback: Smooth and instant audio playback on each mala count for an immersive experience.
-
 📱 User-Friendly Interface: Simple, clean, and devotional UI for all age groups.
 
-📦 Tech Stack
-Language: Java/Kotlin (specify if applicable)
-
+📦 Tech Stack:
+Language: Java
 UI: Android XML
-
 Media: Built-in audio playback for Om chanting
-
-Content: Full Bhagavad Gita integrated (offline/online depending on your implementation)
+Content: Full Bhagavad Gita integrated 
